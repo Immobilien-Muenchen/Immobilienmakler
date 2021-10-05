@@ -1,7 +1,8 @@
 # Immobilienmakler
 Dateien rund um den Betrieb einer Immobilienmakler-Website.
 
-Betrieb einer Immobilienmakler-Homepage mit Anbindung an Maklersoftware "Flowfact" via OpenImmo-Schnittstelle. Dabei werden Objektdaten von [https://www.lohmuellercompany.de/](Lohmüller & Company Immobilien) inklusive Bilder von Flowfact via FTP an den Webserver übertragen, dort u.a. mit ImageMagick verarbeitet und anschließend mit WordPress CLI in die Ziel-WordPress-Installation eingepflegt.
+Betrieb einer Immobilienmakler-Homepage mit Anbindung an Maklersoftware "Flowfact" via OpenImmo-Schnittstelle. Dabei werden Objektdaten von [https://www.lohmuellercompany.de/]
+(Lohmüller & Company Immobilien) inklusive Bilder von Flowfact via FTP an den Webserver übertragen, dort u.a. mit ImageMagick verarbeitet und anschließend mit WordPress CLI in die Ziel-WordPress-Installation eingepflegt.
 
 # Immobilien München
 Lohmüller & Company ist einer der führenden Immobilienmakler Münchens mit Standorten am Isartorplatz, in Haidhausen und in Peißenberg in Oberbayern.
